@@ -3,12 +3,12 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 30
     buildToolsVersion '30.0.3'
 
     defaultConfig {
         applicationId "jp.techacademy.naomasa.sakamoto.linearlayout"
-        minSdkVersion 23
+        minSdkVersion 28
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
